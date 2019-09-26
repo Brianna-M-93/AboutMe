@@ -1,10 +1,10 @@
-# <About Me>
+# AboutMe
 
 An Android application that displays a short bio about a person.
 
-Submitted by: <Brianna Magnuson>
+Submitted by: Brianna Magnuson
 
-Time spent: <2 hours>
+Time spent: 2 hours
 
 ## User Stories
 
@@ -31,7 +31,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <Brianna Magnuson>
+Copyright 2019 Brianna Magnuson
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
