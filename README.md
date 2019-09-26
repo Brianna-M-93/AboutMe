@@ -1,19 +1,19 @@
-# <name of app>
+# <About Me>
 
 An Android application that displays a short bio about a person.
 
-Submitted by: <name>
+Submitted by: <Brianna Magnuson>
 
-Time spent: <time>
+Time spent: <2 hours>
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Implement LinearLayout view group with nested ScrollView.
-* [ ] Create and use resources for dimensions, styles, colors, and font.
-* [ ] Use data binding to improve efficiency.
-* [ ] App displays a scrollable bio and displays a nickname when button is clicked.
+* [X] Implement LinearLayout view group with nested ScrollView.
+* [X] Create and use resources for dimensions, styles, colors, and font.
+* [X] Use data binding to improve efficiency.
+* [X] App displays a scrollable bio and displays a nickname when button is clicked.
 
 The following **additional** features are implemented:
 
@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='About Me animated demo' alt='About Me demo' />
+<img src='about_me_demo.gif' title='About Me animated demo' alt='About Me demo' />
 
 ## Notes
 
@@ -31,7 +31,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 <Brianna Magnuson>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
