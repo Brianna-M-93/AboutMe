@@ -16,6 +16,9 @@ class MainActivity : AppCompatActivity() {
     //create binding object
     private lateinit var binding: ActivityMainBinding
 
+    //create instance of data type MyName
+    private val myName: MyName = MyName("Brianna")
+
     //lateinit var editText: EditText
     //lateinit var nicknameTextView: TextView
 
@@ -26,6 +29,9 @@ class MainActivity : AppCompatActivity() {
 
         //the binding object connects the layout with the activity
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+
+        //declare variable created in the xml file
+        binding.myName = myName
         
         //findViewById<Button>(R.id.done_button).setOnClickListener {
         //    addNickname(it)
