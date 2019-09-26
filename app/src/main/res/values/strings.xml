@@ -2,4 +2,9 @@
     <string name="app_name">About Me</string>
     <string name="name">Brianna</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hello! My name is Brianna!
+        \n\nI am a student at the College of Southern Nevada.
+        \n\n
+    </string>
 </resources>
